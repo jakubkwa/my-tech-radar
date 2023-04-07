@@ -1,49 +1,56 @@
 {
   "title": "Jakub Kwasniewski's Tech Radar",
   "quadrants": ["Development", "Test", "Infrastructure", "Integration & deployment"],
-  "rings": ["adopt", "pilot", "assess", "hold"],
+  "rings": ["experienced", "intermediate", "basics", "forgotten"],
   "blips": [
     {
       "name": "C#",
       "quadrant": "Development",
-      "ring": "adopt",
+      "ring": "experienced",
       "isNew": false,
-      "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
+      "description": ""
     },
     {
       "name": "ASP .NET Core",
       "quadrant": "Development",
-      "ring": "adopt",
+      "ring": "experienced",
       "isNew": false,
-      "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
+      "description": ""
+    },
+    {
+      "name": "WPF",
+      "quadrant": "Development",
+      "ring": "forgotten",
+      "isNew": false,
+      "description": ""
     },
     {
       "name": "TDD",
       "quadrant": "Test",
-      "ring": "adopt",
+      "ring": "experienced",
       "isNew": false,
-      "description": "This is a simple description"
+      "description": ""
     },
     {
       "name": "AuroraDB",
       "quadrant": "Infrastructure",
-      "ring": "pilot",
+      "ring": "intermediate",
       "isNew": false,
-      "description": "This is a <a href=\"/\">description</a><br /><br />Spanning several lines."
+      "description": ""
     },
     {
       "name": "Jenkins",
       "quadrant": "Integration & deployment",
-      "ring": "assess",
+      "ring": "intermediate",
       "isNew": false,
-      "description": "This is another simple description"
+      "description": ""
     },
     {
       "name": "GitHub Actions",
       "quadrant": "Integration & deployment",
-      "ring": "hold",
+      "ring": "basics",
       "isNew": false,
-      "description": "This is another simple description"
+      "description": ""
     }
   ]
 }
