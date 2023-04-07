@@ -18,6 +18,34 @@
       "description": ""
     },
     {
+      "name": "ASP .NET Web API",
+      "quadrant": "Development",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "React",
+      "quadrant": "Development",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "JavaScript",
+      "quadrant": "Development",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "TypeScript",
+      "quadrant": "Development",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
       "name": "Python",
       "quadrant": "Development",
       "ring": "basics",
@@ -39,9 +67,65 @@
       "description": ""
     },
     {
-      "name": "AuroraDB",
+      "name": "Unit Testing",
+      "quadrant": "Test",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Integration Testing",
+      "quadrant": "Test",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Mocking",
+      "quadrant": "Test",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Acceptance Testing",
+      "quadrant": "Test",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "SpecFlow",
+      "quadrant": "Test",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Amazon Aurora",
       "quadrant": "Infrastructure",
       "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "MS SQL",
+      "quadrant": "Infrastructure",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Oracle",
+      "quadrant": "Infrastructure",
+      "ring": "basics",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Azure Storage",
+      "quadrant": "Infrastructure",
+      "ring": "basics",
       "isNew": false,
       "description": ""
     },
