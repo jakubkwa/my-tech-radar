@@ -1,7 +1,7 @@
 {
   "title": "Jakub Kwaśniewski's Tech Radar",
   "quadrants": ["Development", "Test", "Infrastructure", "CI/CD"],
-  "rings": ["Adopt", "Trial", "Assess"],
+  "rings": ["Adopt", "Trial", "Assess, Hold"],
   "blips": [
     {
       "name": "JavaScript",
@@ -21,6 +21,13 @@
       "name": "Java",
       "quadrant": "Infrastructure",
       "ring": "Assess",
+      "isNew": false,
+      "description": "This is a <a href=\"/\">description</a><br /><br />Spanning several lines."
+    },
+    {
+      "name": "Dummy",
+      "quadrant": "CI/CD",
+      "ring": "Hold",
       "isNew": false,
       "description": "This is a <a href=\"/\">description</a><br /><br />Spanning several lines."
     }
