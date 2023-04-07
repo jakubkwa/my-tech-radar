@@ -1,26 +1,26 @@
 {
   "title": "Jakub Kwaśniewski's Tech Radar",
   "quadrants": ["Development", "Test", "Infrastructure", "CI/CD"],
-  "rings": ["adopt", "trial", "assess"],
+  "rings": ["Adopt", "Trial", "Assess"],
   "blips": [
     {
       "name": "JavaScript",
-      "quadrant": "Quad1",
-      "ring": "adopt",
+      "quadrant": "Development",
+      "ring": "Adopt",
       "isNew": false,
       "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
     },
     {
       "name": "Go",
-      "quadrant": "Quad2",
-      "ring": "trial",
+      "quadrant": "Test",
+      "ring": "Trial",
       "isNew": true,
       "description": "This is a simple description"
     },
     {
       "name": "Java",
-      "quadrant": "Quad3",
-      "ring": "assess",
+      "quadrant": "Infrastructure",
+      "ring": "Assess",
       "isNew": false,
       "description": "This is a <a href=\"/\">description</a><br /><br />Spanning several lines."
     }
