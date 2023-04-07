@@ -1,6 +1,6 @@
 {
   "title": "My Radar",
-  "quadrants": ["Development", "Test", "Infrastructure", "CI/CD"],
+  "quadrants": ["Development", "Test", "Infrastructure", "Integration & deployment"],
   "rings": ["adopt", "trial", "assess", "hold"],
   "blips": [
     {
@@ -25,8 +25,8 @@
       "description": "This is a <a href=\"/\">description</a><br /><br />Spanning several lines."
     },
     {
-      "name": "Dummy CI/CD",
-      "quadrant": "CI/CD",
+      "name": "Dummy Integration & deployment",
+      "quadrant": "Integration & deployment",
       "ring": "hold",
       "isNew": false,
       "description": "This is another simple description"
