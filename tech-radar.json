@@ -1,31 +1,45 @@
 {
-  "title": "Jakub Kwaśniewski's Tech Radar",
+  "title": "Jakub Kwasniewski's Tech Radar",
   "quadrants": ["Development", "Test", "Infrastructure", "Integration & deployment"],
   "rings": ["adopt", "pilot", "assess", "hold"],
   "blips": [
     {
-      "name": "Dummy Development",
+      "name": "C#",
       "quadrant": "Development",
       "ring": "adopt",
       "isNew": false,
       "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
     },
     {
-      "name": "Dummy Test",
+      "name": "ASP .NET Core",
+      "quadrant": "Development",
+      "ring": "adopt",
+      "isNew": false,
+      "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
+    },
+    {
+      "name": "TDD",
       "quadrant": "Test",
-      "ring": "pilot",
-      "isNew": true,
+      "ring": "adopt",
+      "isNew": false,
       "description": "This is a simple description"
     },
     {
-      "name": "Dummy Infrastructure",
+      "name": "AuroraDB",
       "quadrant": "Infrastructure",
-      "ring": "assess",
+      "ring": "pilot",
       "isNew": false,
       "description": "This is a <a href=\"/\">description</a><br /><br />Spanning several lines."
     },
     {
-      "name": "Dummy Integration & deployment",
+      "name": "Jenkins",
+      "quadrant": "Integration & deployment",
+      "ring": "assess",
+      "isNew": false,
+      "description": "This is another simple description"
+    },
+    {
+      "name": "GitHub Actions",
       "quadrant": "Integration & deployment",
       "ring": "hold",
       "isNew": false,
