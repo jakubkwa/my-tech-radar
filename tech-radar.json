@@ -1,7 +1,7 @@
 {
-  "title": "My Radar",
-  "quadrants": ["Quad1", "Quad2", "Quad3", "Quad4"],
-  "rings": ["adopt", "trial", "assess", "hold"],
+  "title": "Jakub Kwaśniewski's Tech Radar",
+  "quadrants": ["Development", "Test", "Infrastructure", "CI/CD"],
+  "rings": ["adopt", "trial", "assess"],
   "blips": [
     {
       "name": "JavaScript",
@@ -23,13 +23,6 @@
       "ring": "assess",
       "isNew": false,
       "description": "This is a <a href=\"/\">description</a><br /><br />Spanning several lines."
-    },
-    {
-      "name": "C++",
-      "quadrant": "Quad4",
-      "ring": "hold",
-      "isNew": false,
-      "description": "This is another simple description"
     }
   ]
 }
