@@ -1,32 +1,32 @@
 {
   "title": "My Radar",
-  "quadrants": ["Quad1", "Quad2", "Quad3", "Quad4"],
+  "quadrants": ["Development", "Test", "Infrastructure", "CI/CD"],
   "rings": ["adopt", "trial", "assess", "hold"],
   "blips": [
     {
-      "name": "JavaScript",
-      "quadrant": "Quad1",
+      "name": "Dummy Development",
+      "quadrant": "Development",
       "ring": "adopt",
       "isNew": false,
       "description": "<p>This is a description</p><p>Formatted into paragraphs</p>"
     },
     {
-      "name": "Go",
-      "quadrant": "Quad2",
+      "name": "Dummy Test",
+      "quadrant": "Test",
       "ring": "trial",
       "isNew": true,
       "description": "This is a simple description"
     },
     {
-      "name": "Java",
-      "quadrant": "Quad3",
+      "name": "Dummy Infrastructure",
+      "quadrant": "Infrastructure",
       "ring": "assess",
       "isNew": false,
       "description": "This is a <a href=\"/\">description</a><br /><br />Spanning several lines."
     },
     {
-      "name": "C++",
-      "quadrant": "Quad4",
+      "name": "Dummy CI/CD",
+      "quadrant": "CI/CD",
       "ring": "hold",
       "isNew": false,
       "description": "This is another simple description"
