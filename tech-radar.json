@@ -1,5 +1,5 @@
 {
-  "title": "My Radar",
+  "title": "Jakub Kwaśniewski's Tech Radar",
   "quadrants": ["Development", "Test", "Infrastructure", "Integration & deployment"],
   "rings": ["adopt", "pilot", "assess", "hold"],
   "blips": [
