@@ -18,6 +18,13 @@
       "description": ""
     },
     {
+      "name": "Python",
+      "quadrant": "Development",
+      "ring": "basics",
+      "isNew": false,
+      "description": ""
+    },
+    {
       "name": "WPF",
       "quadrant": "Development",
       "ring": "forgotten",
