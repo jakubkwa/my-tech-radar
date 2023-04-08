@@ -1,6 +1,6 @@
 {
   "title": "Jakub Kwasniewski's Tech Radar",
-  "quadrants": ["Development", "Test", "Infrastructure", "Integration & deployment"],
+  "quadrants": ["Development", "Test", "Infrastructure", "Others"],
   "rings": ["experienced", "intermediate", "basics", "forgotten"],
   "blips": [
     {
@@ -14,6 +14,34 @@
       "name": "ASP .NET Core",
       "quadrant": "Development",
       "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Dependency Injection",
+      "quadrant": "Development",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "REST APIs",
+      "quadrant": "Development",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Refactoring",
+      "quadrant": "Development",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "DDD",
+      "quadrant": "Development",
+      "ring": "intermediate",
       "isNew": false,
       "description": ""
     },
@@ -46,6 +74,20 @@
       "description": ""
     },
     {
+      "name": "Dapper",
+      "quadrant": "Development",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "HAL",
+      "quadrant": "Development",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
       "name": "Python",
       "quadrant": "Development",
       "ring": "basics",
@@ -53,7 +95,35 @@
       "description": ""
     },
     {
+      "name": "PowerShell",
+      "quadrant": "Development",
+      "ring": "basics",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Entity Framework",
+      "quadrant": "Development",
+      "ring": "basics",
+      "isNew": false,
+      "description": ""
+    },
+    {
       "name": "WPF",
+      "quadrant": "Development",
+      "ring": "forgotten",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "WCF",
+      "quadrant": "Development",
+      "ring": "forgotten",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "SOAP",
       "quadrant": "Development",
       "ring": "forgotten",
       "isNew": false,
@@ -102,6 +172,41 @@
       "description": ""
     },
     {
+      "name": "Cypress",
+      "quadrant": "Test",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Smoke Tests",
+      "quadrant": "Test",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Load Testing",
+      "quadrant": "Test",
+      "ring": "basics",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Selenium",
+      "quadrant": "Test",
+      "ring": "forgotten",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Microsoft Test Manager",
+      "quadrant": "Test",
+      "ring": "forgotten",
+      "isNew": false,
+      "description": ""
+    },
+    {
       "name": "Amazon Aurora",
       "quadrant": "Infrastructure",
       "ring": "intermediate",
@@ -110,6 +215,13 @@
     },
     {
       "name": "MS SQL",
+      "quadrant": "Infrastructure",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Amazon SQS/SNS",
       "quadrant": "Infrastructure",
       "ring": "intermediate",
       "isNew": false,
@@ -130,15 +242,71 @@
       "description": ""
     },
     {
+      "name": "Kafka",
+      "quadrant": "Infrastructure",
+      "ring": "basics",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Agile",
+      "quadrant": "Others",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Scrum",
+      "quadrant": "Others",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Git",
+      "quadrant": "Others",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "SVN",
+      "quadrant": "Others",
+      "ring": "experienced",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Docker",
+      "quadrant": "Others",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
       "name": "Jenkins",
-      "quadrant": "Integration & deployment",
+      "quadrant": "Others",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Lucidchart",
+      "quadrant": "Others",
       "ring": "intermediate",
       "isNew": false,
       "description": ""
     },
     {
       "name": "GitHub Actions",
-      "quadrant": "Integration & deployment",
+      "quadrant": "Others",
+      "ring": "basics",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "TeamCity",
+      "quadrant": "Others",
       "ring": "basics",
       "isNew": false,
       "description": ""
