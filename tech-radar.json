@@ -293,7 +293,14 @@
     {
       "name": "SVN",
       "quadrant": "Others",
-      "ring": "experienced",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Microservices",
+      "quadrant": "Others",
+      "ring": "intermediate",
       "isNew": false,
       "description": ""
     },
