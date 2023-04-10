@@ -249,6 +249,13 @@
       "description": ""
     },
     {
+      "name": "Redis",
+      "quadrant": "Infrastructure",
+      "ring": "intermediate",
+      "isNew": false,
+      "description": ""
+    },
+    {
       "name": "Oracle",
       "quadrant": "Infrastructure",
       "ring": "basics",
