@@ -193,6 +193,20 @@
       "description": ""
     },
     {
+      "name": "Contract Testing",
+      "quadrant": "Test",
+      "ring": "basics",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "Pact",
+      "quadrant": "Test",
+      "ring": "basics",
+      "isNew": false,
+      "description": ""
+    },
+    {
       "name": "Selenium",
       "quadrant": "Test",
       "ring": "forgotten",
@@ -201,6 +215,13 @@
     },
     {
       "name": "Microsoft Test Manager",
+      "quadrant": "Test",
+      "ring": "forgotten",
+      "isNew": false,
+      "description": ""
+    },
+    {
+      "name": "JMeter",
       "quadrant": "Test",
       "ring": "forgotten",
       "isNew": false,
